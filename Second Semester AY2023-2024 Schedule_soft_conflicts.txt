@@ -1,11 +1,10 @@
 ﻿Soft conflicts of Second Semester AY2023-2024 Schedule.fet
-Generated with FET 6.9.5 on 1/23/24 1:20 PM
+Generated with FET 6.9.5 on 1/25/24 10:52 AM
 
-Number of broken soft constraints: 1
-Total soft conflicts: 0.95
+Number of broken soft constraints: 0
+Total soft conflicts: 0
 
 Soft conflicts list (in decreasing order):
 
-Time constraint min days between activities broken: activity with id=150 (    6/12 - John Paul De Torres - DCIT 23 - Laboratory - BSIT 1-2) conflicts with activity with id=149 (6/12 -     John Paul De Torres - DCIT 23 - Laboratory - BSIT 1-2), being 1 days too close, on days Thursday and Friday, conflicts factor increase=0.95.
 
 End of file.
