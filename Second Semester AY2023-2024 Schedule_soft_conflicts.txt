@@ -1,5 +1,5 @@
 ﻿Soft conflicts of Second Semester AY2023-2024 Schedule.fet
-Generated with FET 6.9.5 on 1/25/24 9:07 PM
+Generated with FET 6.9.5 on 1/29/24 9:02 AM
 
 Number of broken soft constraints: 0
 Total soft conflicts: 0
